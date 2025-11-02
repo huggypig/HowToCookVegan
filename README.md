@@ -73,4 +73,8 @@ HowToCookVegan 是一个开源项目，旨在为所有热爱素食、关注健�
 
 如需商业授权，请联系作者获取许可。
 
-商业授权与合作请联系：contact@huggypig.com
+## 联系方式
+
+商业授权与合作请联系：
+
+- contact@huggypig.com
