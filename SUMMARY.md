@@ -10,7 +10,7 @@
 * [厨房准备](kitchen/README.md)
     * [厨房工具与设备推荐](kitchen/tools-and-equipment.md)
     * [常备食材清单](kitchen/pantry-essentials.md)
-    * [素食储存技巧](kitchen/storage-tips.md)
+    * [食材储存技巧](kitchen/storage-tips.md)
     * [厨房安全与卫生](kitchen/kitchen-safety.md)
 * [食材知识](ingredients/README.md)
     * [谷物与豆类](ingredients/grains-and-legumes.md)
