@@ -8,7 +8,6 @@
     * [素食的健康益处与误区](basics/benefits-and-misconceptions.md)
     * [世界各地的素食文化](basics/global-vegan-culture.md)
 * [厨房准备](kitchen/README.md)
-    * [厨房准备](kitchen/prepare.md)
     * [厨房工具与设备推荐](kitchen/tools-and-equipment.md)
     * [常备食材清单](kitchen/pantry-essentials.md)
     * [素食储存技巧](kitchen/storage-tips.md)
