@@ -5,6 +5,8 @@ slug: /
 
 # 素食烹饪指南 📖
 
+![](./images/HowToCookVegan-Slogan-Banner-2.png)
+
 素食烹饪指南（[HowToCookVegan](https://github.com/huggypig/HowToCookVegan)）是一个开源项目，旨在为所有热爱素食、关注健康与地球的人，提供一份简单、实用、有趣的纯素食烹饪指南。
 
 在这里，你可以找到：
