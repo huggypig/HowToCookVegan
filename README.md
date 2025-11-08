@@ -1,8 +1,6 @@
----
-sidebar_position: 0
----
-
 # HowToCookVegan
+
+![](./images/HowToCookVegan-Slogan-Banner-2.png)
 
 ## 项目介绍
 
