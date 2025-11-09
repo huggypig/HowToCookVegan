@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /recipes/kung-pao-tofu
 ---
 
 # 宫保豆腐

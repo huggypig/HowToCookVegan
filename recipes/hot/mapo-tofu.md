@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+slug: /recipes/mapo-tofu
 ---
 
 # 麻婆豆腐

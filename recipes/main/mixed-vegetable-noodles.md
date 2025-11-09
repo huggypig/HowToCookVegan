@@ -1,5 +1,6 @@
 ---
 sidebar_position: 19
+slug: /recipes/mixed-vegetable-noodles
 ---
 
 # 什锦炒面

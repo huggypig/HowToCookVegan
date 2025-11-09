@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+slug: /recipes/smashed-cucumber
 ---
 
 # 拍黄瓜

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 16
+slug: /recipes/corn-chowder
 ---
 
 # 玉米浓汤

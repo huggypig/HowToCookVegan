@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+slug: /recipes/tofu-roll-salad
 ---
 
 # 豆腐皮卷

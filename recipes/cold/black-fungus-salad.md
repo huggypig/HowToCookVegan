@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+slug: /recipes/black-fungus-salad
 ---
 
 # 凉拌木耳

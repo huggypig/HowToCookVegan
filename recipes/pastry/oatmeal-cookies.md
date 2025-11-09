@@ -1,5 +1,6 @@
 ---
 sidebar_position: 22
+slug: /recipes/oatmeal-cookies
 ---
 
 # 燕麦饼干

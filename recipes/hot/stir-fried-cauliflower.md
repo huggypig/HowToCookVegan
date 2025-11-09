@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 sidebar_label: 清炒花菜
+slug: /recipes/stir-fried-cauliflower
 ---
 
 # 清炒花菜的做法

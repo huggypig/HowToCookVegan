@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 sidebar_label: 地三鲜
+slug: /recipes/di-san-xian
 ---
 
 # 地三鲜的做法

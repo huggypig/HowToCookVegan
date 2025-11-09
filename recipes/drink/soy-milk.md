@@ -1,5 +1,6 @@
 ---
 sidebar_position: 26
+slug: /recipes/soy-milk
 ---
 
 # 豆浆

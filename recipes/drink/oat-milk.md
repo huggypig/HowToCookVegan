@@ -1,5 +1,6 @@
 ---
 sidebar_position: 27
+slug: /recipes/oat-milk
 ---
 
 # 燕麦奶

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 24
+slug: /recipes/soy-milk-cake
 ---
 
 # 豆乳蛋糕

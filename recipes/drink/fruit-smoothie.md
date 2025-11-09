@@ -1,5 +1,6 @@
 ---
 sidebar_position: 28
+slug: /recipes/fruit-smoothie
 ---
 
 # 水果冰沙

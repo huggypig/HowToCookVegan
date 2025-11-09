@@ -1,5 +1,6 @@
 ---
 sidebar_position: 18
+slug: /recipes/vegan-fried-rice
 ---
 
 # 素炒饭

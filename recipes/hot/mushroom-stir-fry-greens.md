@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+slug: /recipes/mushroom-stir-fry-greens
 ---
 
 # 香菇炒青菜

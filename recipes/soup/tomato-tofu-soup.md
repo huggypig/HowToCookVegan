@@ -1,5 +1,6 @@
 ---
 sidebar_position: 14
+slug: /recipes/tomato-tofu-soup
 ---
 
 # 番茄豆腐汤

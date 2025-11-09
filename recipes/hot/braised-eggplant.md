@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+slug: /recipes/braised-eggplant
 ---
 
 # 红烧茄子

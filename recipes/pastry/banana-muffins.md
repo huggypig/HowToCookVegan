@@ -1,5 +1,6 @@
 ---
 sidebar_position: 23
+slug: /recipes/banana-muffins
 ---
 
 # 香蕉松饼

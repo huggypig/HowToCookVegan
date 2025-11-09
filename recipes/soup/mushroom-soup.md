@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+slug: /recipes/mushroom-soup
 ---
 
 # 菌菇汤
