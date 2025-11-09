@@ -25,7 +25,6 @@
     * [素食营养基础](nutrition/nutrition-basics.md)
     * [学会看配料表](nutrition/how-to-read-labels.md)
     * [均衡配餐方法](nutrition/meal-planning.md)
-    * [营养搭配建议](nutrition/nutrition-combinations.md)
     * [食物相宜与相克](nutrition/food-compatibility.md)
     * [特殊人群的素食方案](nutrition/special-groups.md)
     * [素食食品安全](nutrition/food-safety.md)
