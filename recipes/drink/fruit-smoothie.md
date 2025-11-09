@@ -1,5 +1,5 @@
 ---
-sidebar_position: 28
+sidebar_position: 43
 slug: /recipes/fruit-smoothie
 ---
 
@@ -57,4 +57,3 @@ slug: /recipes/fruit-smoothie
 - **营养价值：** 水果冰沙富含维生素、膳食纤维和抗氧化物质，是健康的饮品选择。
 - **变化：** 可以根据个人喜好添加其他配料，如坚果、种子、可可粉等，制作不同口味的水果冰沙。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

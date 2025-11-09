@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 19
 slug: /recipes/tomato-tofu-soup
 ---
 
@@ -75,4 +75,3 @@ slug: /recipes/tomato-tofu-soup
 - **配菜选择：** 可以根据个人喜好添加其他配菜，如豆芽、青菜等。
 - **健康提示：** 这道汤营养丰富，热量适中，适合日常食用。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

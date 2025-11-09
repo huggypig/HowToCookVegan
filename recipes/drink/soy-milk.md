@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26
+sidebar_position: 41
 slug: /recipes/soy-milk
 ---
 
@@ -61,4 +61,3 @@ slug: /recipes/soy-milk
 - **保存方法：** 自制豆浆最好当天饮用完。如果需要保存，可以放入冰箱冷藏，但不要超过 2 天。
 - **变化：** 可以根据个人喜好添加其他配料，如黑芝麻、红枣、花生等，制作不同口味的豆浆。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

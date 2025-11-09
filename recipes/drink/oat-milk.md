@@ -1,5 +1,5 @@
 ---
-sidebar_position: 27
+sidebar_position: 42
 slug: /recipes/oat-milk
 ---
 
@@ -56,4 +56,3 @@ slug: /recipes/oat-milk
 - **变化：** 可以根据个人喜好添加其他配料，如香草精、可可粉、椰浆等，制作不同口味的燕麦奶。
 - **燕麦渣利用：** 过滤后的燕麦渣不要浪费，可以用来制作燕麦饼、燕麦粥等。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

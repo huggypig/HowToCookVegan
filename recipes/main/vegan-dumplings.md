@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20
+sidebar_position: 32
 slug: /recipes/vegan-dumplings
 ---
 
@@ -84,4 +84,3 @@ slug: /recipes/vegan-dumplings
 - **保存方法：** 包好的饺子可以放入冰箱冷冻，随时食用。冷冻时要在饺子之间留有空隙，避免粘在一起。
 - **配菜选择：** 可以根据个人喜好添加其他配菜，如韭菜、芹菜等。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

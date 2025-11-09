@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 29
 slug: /recipes/vegan-fried-rice
 ---
 
@@ -72,4 +72,3 @@ slug: /recipes/vegan-fried-rice
 - **调味技巧：** 生抽可以增加鲜味和颜色，糖可以提鲜。可以根据个人口味调整。
 - **健康提示：** 素炒饭营养丰富，热量适中，适合日常食用。可以搭配其他蔬菜一起食用。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

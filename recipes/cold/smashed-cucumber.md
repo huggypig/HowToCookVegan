@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 16
 slug: /recipes/smashed-cucumber
 ---
 
@@ -61,5 +61,3 @@ slug: /recipes/smashed-cucumber
 - **调味平衡：** 凉拌汁的关键是酸甜平衡，可以根据个人口味调整醋和糖的比例。如果喜欢辣味，可以加入辣椒油。
 - **配菜选择：** 可以根据个人喜好添加其他配菜，如花生米、木耳等。
 - **保存方法：** 拍黄瓜最好现做现吃，如果提前制作，可以放入冰箱冷藏，但不要放太久，避免黄瓜变软。
-
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

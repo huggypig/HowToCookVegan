@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 15
 slug: /recipes/black-fungus-salad
 ---
 
@@ -70,5 +70,3 @@ slug: /recipes/black-fungus-salad
 - **调味平衡：** 凉拌汁的关键是酸甜平衡，可以根据个人口味调整醋和糖的比例。
 - **配菜选择：** 可以根据个人喜好添加其他配菜，如豆芽、花生米等。
 - **保存方法：** 凉拌木耳可以提前制作，放入冰箱冷藏，食用前取出即可。
-
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

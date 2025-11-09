@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22
+sidebar_position: 37
 slug: /recipes/oatmeal-cookies
 ---
 
@@ -70,4 +70,3 @@ slug: /recipes/oatmeal-cookies
 - **保存方法：** 饼干可以放入密封容器中，室温保存 1-2 周。
 - **变化：** 可以根据个人喜好添加其他配料，如巧克力豆、椰子片、芝麻等。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

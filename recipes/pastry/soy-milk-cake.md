@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 39
 slug: /recipes/soy-milk-cake
 ---
 
@@ -66,4 +66,3 @@ slug: /recipes/soy-milk-cake
 - **保存方法：** 蛋糕可以放入密封容器中，室温保存 2-3 天，或冷冻保存更长时间。
 - **装饰：** 可以根据个人喜好装饰蛋糕，如新鲜水果、果酱、素食奶油等。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

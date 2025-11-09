@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23
+sidebar_position: 38
 slug: /recipes/banana-muffins
 ---
 
@@ -65,4 +65,3 @@ slug: /recipes/banana-muffins
 - **保存方法：** 松饼可以放入密封容器中，室温保存 2-3 天，或冷冻保存更长时间。
 - **变化：** 可以根据个人喜好添加其他配料，如坚果、巧克力豆、蓝莓等。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。

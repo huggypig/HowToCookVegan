@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 27
 slug: /recipes/corn-chowder
 ---
 
@@ -68,4 +68,3 @@ slug: /recipes/corn-chowder
 - **配菜选择：** 可以根据个人喜好添加其他配菜，如蘑菇、青菜等。
 - **健康提示：** 这道汤营养丰富，富含膳食纤维和维生素，适合日常食用。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。
