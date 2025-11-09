@@ -32,7 +32,6 @@
     * [烹饪的科学原理（热传导、乳化、焦化反应）](cooking/cooking-science.md)
     * [素食烹饪的关键技巧](cooking/vegan-techniques.md)
     * [提升鲜味的方法](cooking/umami-enhancement.md)
-    * [营养与风味的平衡](cooking/flavor-balance.md)
 * [素食菜谱](recipes/README.md)
     * [热菜](recipes/hot/README.md)
         * [宫保豆腐](recipes/hot/kung-pao-tofu.md)
